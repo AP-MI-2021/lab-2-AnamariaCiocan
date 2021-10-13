@@ -103,4 +103,7 @@ def main():
 
 
 if __name__ == '__main__':
+    test_is_palindrome()
+    test_get_n_choose_k()
+    test_is_superprime()
     main()
